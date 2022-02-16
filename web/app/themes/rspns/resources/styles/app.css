@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+#app {
+  width: 90%;
+  max-width: 1000px;
+  margin: 40px auto 0;
+}
